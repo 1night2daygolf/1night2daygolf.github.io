@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "남해사우스케이프CC 1박2일 골프패키지 12월, 1월, 2월 가격(요금)"
 ---
 
