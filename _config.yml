@@ -20,7 +20,7 @@ title                    : "1박2일 골프패키지 전문 여행사"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "1박2일 여행사"
-description              : "남해사우스케이프CC, 아난티남해CC"
+description              : "남해사우스케이프CC, 아난티남해CC, 파인비치CC, 파인밸리CC, 파인리즈CC, 설악썬밸리CC, 하이원CC, 석정힐CC, 선운산CC 등"
 url                      : "https://1night2daygolf.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "1박2일여행사</BR></BR>02-556-2766</BR>010-3303-2766"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "남해사우스케이프CC, 아난티남해CC, 파인비치CC, 파인밸리CC, 파인리즈CC, 설악썬밸리CC, 하이원CC, 석정힐CC, 선운산CC 등"
+  location         : "SEOUL"
   email            :
   links:
     - label: "Email"
