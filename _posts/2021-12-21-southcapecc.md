@@ -3,7 +3,12 @@ layout: single
 title: "남해사우스케이프CC 1박2일 골프패키지 12월, 1월, 2월 가격(요금)"
 ---
 ![사우스케이프 골프코스9](https://user-images.githubusercontent.com/96457511/147041096-077229f7-004c-4d24-846f-ddec3df88c75.png)
-</BR></BR></BR></BR>
+
+
+
+
+
+
 # 남해사우스케이프CC 간단 소개
 </BR></BR>
 지금까지 healing은 안정, 휴식, 치유 등 정적(static)인 개념으로 접근해 온데 비해 South Cape 에서는 이를 upgrade한 “ultimate healing”을 제안하고 있다.
@@ -19,7 +24,12 @@ Healing을 궁극적으로 완성하기 위해서는 심신의 안정을 위한 
 바다 위에 떠있는듯한 3개의 아일랜드형 Short Hole 중 14번 Hole은 페블비치의 7번 홀과 16번 홀은 World’s Greatest Hole이라 불리는 사이프러스 포인트 16번 홀과 비견된다고 해외 Golf Magazine Panelist들이 이구동성으로 평하고 있다.
 </BR></BR>
 또한 리아스식 해안을 연상케 하는 Unique한 벙커스타일은 다시 한 번 SCOC만의 차별성을 느끼게 한다.
-</BR></BR></BR></BR>
+
+
+
+
+
+
 
 # 남해사우스케이프CC 1박2일 골프패키지 12월, 1월, 2월 가격(요금)
 </BR></BR></BR></BR>
