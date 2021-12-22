@@ -5,7 +5,7 @@ title: "남해사우스케이프CC 1박2일 골프패키지 12월, 1월, 2월 �
 ![사우스케이프 골프코스9](https://user-images.githubusercontent.com/96457511/147041096-077229f7-004c-4d24-846f-ddec3df88c75.png)
 </BR></BR></BR></BR>
 # 남해사우스케이프CC 간단 소개
-</BR></BR></BR></BR>
+</BR></BR>
 지금까지 healing은 안정, 휴식, 치유 등 정적(static)인 개념으로 접근해 온데 비해 South Cape 에서는 이를 upgrade한 “ultimate healing”을 제안하고 있다.
 </BR></BR>
 Healing을 궁극적으로 완성하기 위해서는 심신의 안정을 위한 ‘휴식’, ‘명상’,’spa’ 등 보편적 Healing에 더하여 Activity (여유로운 해안가 골프 rounding, 단지 내 맨발 및 해안 Private trekking, outdoor 요가 등) 에 의한 동적인 Healing, 천혜의 자연과 더불어 작품화 되어 있는 클럽 하우스 등 건축 /시설물이 주는 심미적 Healing, 계절별 local 식재료 고유의 맛을 살린 Realfood Healing, Audio의 역사가 된 웨스턴 일렉트릭, 클랑 필름 등 아날로그 음향시설을 갖춘 Music library에서의 정서적 Healing 등 입체적으로 접근하고 있다. 
@@ -25,7 +25,7 @@ Healing을 궁극적으로 완성하기 위해서는 심신의 안정을 위한 
 </BR></BR></BR></BR>
 
 ### 남해사우스케이프CC 1박2일 골프패키지 12월 가격(요금)
-![남해사우스케이프cc 1박2일 골프패키지 12월 가격 요금](https://user-images.githubusercontent.com/96457511/147040183-aacdb886-6fa5-45f5-b993-fac95261ec6c.PNG)
+![남해사우스케이프cc 1박2일 골프패키지 12월 가격 요금](https://user-images.githubusercontent.com/96457511/147040183-aacdb886-6fa5-45f5-b993-fac95261ec6c.PNG)(http://www.1night2day.com/golf/detail.html?goods_no=37)
 </BR></BR></BR></BR>
 
 ### 남해사우스케이프CC 1박2일 골프패키지 1월 가격(요금)
