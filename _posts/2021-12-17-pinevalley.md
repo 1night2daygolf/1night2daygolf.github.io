@@ -25,6 +25,6 @@ title: "파인밸리CC 1박2일 골프패키지 12월, 1월 가격(요금)"
 ![파인밸리cc 1박2일 골프패키지 1월 가격 요금](https://user-images.githubusercontent.com/96457511/147194629-556c3731-2096-4d9d-8312-b8c8e55248d9.PNG)
 
 
-# [상담접수](http://www.1night2day.com/golf/detail.html?goods_no=26)
+# [상담접수](http://www.1night2day.com/golf/detail.html?goods_no=26 "1박2일 여행사 공식 홈페이지로 이동합니다.")
 
 ![1박2일 골프패키지 1박2일 여행사 예약문의6](https://user-images.githubusercontent.com/96457511/147194685-10d60adc-1799-4e15-ac2f-06eee01fb3e1.png)
