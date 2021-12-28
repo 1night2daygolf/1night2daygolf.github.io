@@ -5,8 +5,6 @@ title: "골프 에티켓"
 
 # 골프 에티켓
 
-![골프 골프에티켓1](https://user-images.githubusercontent.com/96457511/147529166-a156eaab-f487-41ab-a2f8-6f1c06345ce7.jpg)
-
 ![골프매너 골프에티켓1](https://user-images.githubusercontent.com/96457511/147529245-1bf06518-86f9-403c-aeb0-221737367b88.png)
 ![골프매너 골프에티켓2](https://user-images.githubusercontent.com/96457511/147529247-6892d006-0ca7-4382-9fb0-c9b164229371.png)
 ![골프매너 골프에티켓3](https://user-images.githubusercontent.com/96457511/147529250-d7fb26d4-28e8-4533-b4ca-8f569317685e.png)
