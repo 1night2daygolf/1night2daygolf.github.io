@@ -3,6 +3,9 @@ layout: single
 title: "파인힐스CC 1박2일 골프패키지 1월 가격(요금)"
 ---
 
+![파인힐스 골프코스 힐스코스5](https://user-images.githubusercontent.com/96457511/147909481-343cef01-003a-4213-b9d4-ab5daf2b70a6.png)
+
+
 # 파인힐스CC 간단 소개
 편안함 속에서 라운드의 여운은 더 길어집니다.
 모던하고 세련된 클럽하우스에서 편안한 휴식을 즐기십시오.
